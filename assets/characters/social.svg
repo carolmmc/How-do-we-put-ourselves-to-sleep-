@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">聊天码头角色</title><desc id="desc">盘腿坐在床上前倾聊天，一只手托着脸，另一只手举着手机。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="280" cy="442" rx="219" ry="21" class="ink" opacity=".1"/>
+<path d="M72 393c70-51 342-56 416 0v40H72Z" class="blue"/>
+<path d="M216 216c-10-27 5-57 33-67 31-11 64 6 73 38 8 30-10 61-41 68-28 7-55-10-65-39Z" class="skin"/>
+<path d="M218 188c7-33 43-52 73-36 19 10 29 29 27 49-16-11-33-17-51-17-14 11-30 16-49 14Z" class="ink"/>
+<path d="M240 219c6 4 12 4 18 0m25 0c6 4 12 4 18 0" class="thin" stroke-width="3"/>
+<path d="M227 252c-25 43-31 88-17 135 47 24 97 23 148-3 5-47-5-90-31-132-33 15-67 15-100 0Z" class="gold"/>
+<path d="M225 278c-34 12-55 36-62 72" class="line" stroke="#E7A17F" stroke-width="17"/><path d="M163 350l36 14" class="line" stroke="#E7A17F" stroke-width="15"/><path d="M319 274c37 3 65-12 85-43" class="line" stroke="#E7A17F" stroke-width="17"/>
+<rect x="390" y="177" width="43" height="72" rx="8" class="ink" transform="rotate(7 411 213)"/><rect x="397" y="185" width="29" height="51" rx="4" class="teal" transform="rotate(7 411 213)"/>
+<path d="M236 384c-39 6-77 23-111 45m214-43c41 4 78 18 111 42" class="line" stroke="#18202D" stroke-width="24"/><path d="M129 428c41 4 77 0 109-12m208 12c-40 5-76 1-107-12" class="thin" stroke-width="13"/>
+<path d="M199 364c18-10 34-7 49 9" class="detail"/>
+<path d="M396 113h95c13 0 24 11 24 24v37c0 13-11 24-24 24h-37l-21 19 3-19h-40c-13 0-24-11-24-24v-37c0-13 11-24 24-24Z" class="cream" stroke="#75A9A3" stroke-width="5"/>
+<circle cx="412" cy="156" r="5" class="teal"/><circle cx="443" cy="156" r="5" class="teal"/><circle cx="474" cy="156" r="5" class="teal"/>
+</svg>

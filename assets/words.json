@@ -1,0 +1,200 @@
+[
+ {
+  "zone": "scroll",
+  "cn": "刷短视频",
+  "en": "short videos",
+  "x": 1027,
+  "y": 568,
+  "size": 17.4,
+  "w": 68
+ },
+ {
+  "zone": "scroll",
+  "cn": "刷社交媒体",
+  "en": "social feeds",
+  "x": 1117,
+  "y": 648,
+  "size": 15.2,
+  "w": 75
+ },
+ {
+  "zone": "scroll",
+  "cn": "看长视频",
+  "en": "long videos",
+  "x": 1389,
+  "y": 517,
+  "size": 14.5,
+  "w": 57
+ },
+ {
+  "zone": "scroll",
+  "cn": "看小说漫画",
+  "en": "novels",
+  "x": 1249,
+  "y": 359,
+  "size": 14.5,
+  "w": 71
+ },
+ {
+  "zone": "scroll",
+  "cn": "玩游戏",
+  "en": "gaming",
+  "x": 1250,
+  "y": 549,
+  "size": 12.7,
+  "w": 37
+ },
+ {
+  "zone": "sound",
+  "cn": "音乐",
+  "en": "music",
+  "x": 898,
+  "y": 859,
+  "size": 20.0,
+  "w": 39
+ },
+ {
+  "zone": "sound",
+  "cn": "播客",
+  "en": "podcasts",
+  "x": 925,
+  "y": 694,
+  "size": 18.5,
+  "w": 36
+ },
+ {
+  "zone": "sound",
+  "cn": "有声书",
+  "en": "audiobooks",
+  "x": 784,
+  "y": 857,
+  "size": 17.0,
+  "w": 50
+ },
+ {
+  "zone": "sound",
+  "cn": "白噪音",
+  "en": "white noise",
+  "x": 842,
+  "y": 862,
+  "size": 14.1,
+  "w": 42
+ },
+ {
+  "zone": "sound",
+  "cn": "ASMR",
+  "en": "asmr",
+  "x": 948,
+  "y": 854,
+  "size": 13.4,
+  "w": 53
+ },
+ {
+  "zone": "ritual",
+  "cn": "洗澡洗漱",
+  "en": "shower",
+  "x": 470,
+  "y": 801,
+  "size": 16.7,
+  "w": 65
+ },
+ {
+  "zone": "ritual",
+  "cn": "整理床铺",
+  "en": "make the bed",
+  "x": 471,
+  "y": 656,
+  "size": 14.5,
+  "w": 57
+ },
+ {
+  "zone": "ritual",
+  "cn": "抱玩偶",
+  "en": "plush toys",
+  "x": 429,
+  "y": 829,
+  "size": 14.5,
+  "w": 43
+ },
+ {
+  "zone": "ritual",
+  "cn": "阅读",
+  "en": "reading",
+  "x": 369,
+  "y": 812,
+  "size": 14.1,
+  "w": 28
+ },
+ {
+  "zone": "ritual",
+  "cn": "护肤",
+  "en": "skincare",
+  "x": 484,
+  "y": 832,
+  "size": 13.0,
+  "w": 26
+ },
+ {
+  "zone": "tired",
+  "cn": "困到不行",
+  "en": "too tired",
+  "x": 565,
+  "y": 278,
+  "size": 21,
+  "w": 82
+ },
+ {
+  "zone": "tired",
+  "cn": "直接睡",
+  "en": "fall asleep",
+  "x": 644,
+  "y": 285,
+  "size": 18.5,
+  "w": 54
+ },
+ {
+  "zone": "tired",
+  "cn": "不设防",
+  "en": "no wind-down",
+  "x": 644,
+  "y": 128,
+  "size": 15.5,
+  "w": 46
+ },
+ {
+  "zone": "social",
+  "cn": "回完消息",
+  "en": "finish replying",
+  "x": 354,
+  "y": 501,
+  "size": 19.6,
+  "w": 77
+ },
+ {
+  "zone": "social",
+  "cn": "微信QQ",
+  "en": "wechat & qq",
+  "x": 277,
+  "y": 491,
+  "size": 17.8,
+  "w": 70
+ },
+ {
+  "zone": "social",
+  "cn": "打电话",
+  "en": "phone calls",
+  "x": 366,
+  "y": 351,
+  "size": 14.1,
+  "w": 42
+ },
+ {
+  "zone": "light",
+  "cn": "暖色柔光",
+  "en": "warm dim light",
+  "x": 660,
+  "y": 566,
+  "size": 16.7,
+  "w": 65
+ }
+]

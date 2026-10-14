@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">内容拖延区角色</title><desc id="desc">侧躺在床上继续刷手机，弯曲的身体和屏幕微光表现停不下来。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="278" cy="440" rx="230" ry="22" class="ink" opacity=".1"/>
+<rect x="55" y="354" width="450" height="76" rx="34" class="cream"/><path d="M75 384C171 348 324 368 486 356v74H75Z" class="blue"/>
+<path d="M95 351c24-50 98-63 145-28 20 15 21 55-15 64-55 13-119 1-130-36Z" class="cream" stroke="#91A8D5" stroke-width="5"/>
+<path d="M192 350c44-55 110-65 161-32 35 23 62 50 100 70l-19 41H210c-51-18-61-45-18-79Z" fill="url(#duvet)"/>
+<path d="M301 325c35-17 68-12 92 15" class="detail" opacity=".55"/>
+<path d="M224 285c-20 4-34 22-30 43 5 25 31 38 54 27 20-9 28-34 17-54-8-15-24-20-41-16Z" class="skin"/>
+<path d="M199 306c7-31 40-45 66-25 12 9 16 23 13 38-10-9-20-17-31-22-16 12-32 15-48 9Z" class="ink"/>
+<path d="M237 326c5 3 10 3 15 0" class="thin" stroke-width="3"/>
+<path d="M266 337c31-10 62-1 89 22" class="line" stroke="#E7A17F" stroke-width="18"/>
+<path d="M333 349l28-48" class="line" stroke="#E7A17F" stroke-width="14"/>
+<rect x="348" y="266" width="42" height="73" rx="8" class="ink" transform="rotate(12 369 302)"/><rect x="355" y="274" width="28" height="53" rx="4" class="teal" transform="rotate(12 369 302)"/>
+<circle cx="369" cy="302" r="82" fill="url(#screen)"/>
+<path d="M353 361c-7-12-14-22-23-29" class="thin" stroke="#E7A17F"/><path d="M377 283h11m-13 13h15m-18 13h12" class="detail" stroke-width="3"/>
+<path d="M420 249c18 7 25 18 22 34m14-51c27 11 38 29 33 54" class="thin" stroke="#75A9A3" opacity=".7"/>
+</svg>

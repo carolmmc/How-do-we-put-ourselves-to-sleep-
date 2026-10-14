@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">仪式温泉角色</title><desc id="desc">洗漱后轻快地走向床边，把护肤和整理床铺连成柔和的睡前仪式。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="285" cy="443" rx="211" ry="20" class="ink" opacity=".1"/>
+<path d="M80 355h185v73H80z" class="cream"/><path d="M92 371h162v57H92z" class="blue"/>
+<rect x="404" y="84" width="91" height="146" rx="44" class="teal" opacity=".3"/><ellipse cx="449" cy="148" rx="31" ry="45" class="cream" opacity=".45"/>
+<path d="M301 167c-21 7-33 29-26 50 7 23 33 34 54 23 18-10 25-33 16-52-8-18-26-27-44-21Z" class="skin"/>
+<path d="M277 191c1-28 29-47 55-35 18 8 27 27 22 45-11-8-22-13-36-14-13 10-27 12-41 4Z" class="ink"/>
+<path d="M327 210c5 3 10 3 15 0" class="thin" stroke-width="3"/>
+<path d="M291 238c-21 38-25 88-5 129 29 17 63 18 94 2 10-46 0-91-28-134-19 11-39 12-61 3Z" class="coral"/>
+<path d="M305 252c9 26 26 45 51 58" class="detail"/><path d="M352 251c24-11 47-23 68-38" class="line" stroke="#E7A17F" stroke-width="15"/>
+<path d="M420 213l17-31" class="line" stroke="#E7A17F" stroke-width="13"/><rect x="427" y="157" width="16" height="34" rx="6" class="gold" transform="rotate(15 435 174)"/>
+<circle cx="444" cy="150" r="5" class="teal"/><circle cx="454" cy="135" r="4" class="teal" opacity=".7"/>
+<path d="M291 360c-23 20-47 42-72 66" class="line" stroke="#18202D" stroke-width="22"/><path d="M367 365c18 23 40 43 65 60" class="line" stroke="#18202D" stroke-width="22"/>
+<path d="M213 428h-49m272 0h48" class="line" stroke-width="13"/>
+<path d="M286 278c-25 2-49 0-73-8" class="line" stroke="#E7A17F" stroke-width="15"/><path d="M215 270l-25 42" class="line" stroke="#E7A17F" stroke-width="13"/><path d="M184 313c-12 3-21 0-27-8" class="thin"/>
+</svg>

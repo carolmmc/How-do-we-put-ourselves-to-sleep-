@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">疲惫平原角色</title><desc id="desc">精疲力竭的人直接扑进枕头，四肢自然松落。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="280" cy="442" rx="226" ry="20" class="ink" opacity=".1"/>
+<rect x="51" y="349" width="459" height="84" rx="36" class="cream"/><path d="M64 390c118-30 306-23 434-7v50H64Z" class="lav" opacity=".85"/>
+<path d="M84 337c31-45 113-52 164-20 20 13 16 47-7 61-45 26-129 16-162-13-10-9-8-18 5-28Z" class="cream" stroke="#91A8D5" stroke-width="5"/>
+<path d="M234 307c35-32 99-30 135 3l45 52c-60 25-130 30-205 13 2-27 10-50 25-68Z" class="coral"/>
+<path d="M190 310c-17 11-21 35-8 51 14 17 40 19 57 4 15-14 16-38 2-53-13-14-35-15-51-2Z" class="skin"/>
+<path d="M180 331c5-29 31-47 57-36 14 6 23 18 24 33-18-4-32-1-43 9-13-8-26-10-38-6Z" class="ink"/>
+<path d="M194 350c7 5 15 5 22 0" class="thin" stroke-width="3"/>
+<path d="M354 341c39 18 70 42 94 72" class="line" stroke="#E7A17F" stroke-width="18"/><path d="M448 413l35 5" class="line" stroke="#E7A17F" stroke-width="15"/>
+<path d="M273 373c-33 5-64 19-91 43" class="line" stroke="#E7A17F" stroke-width="18"/><path d="M181 416l-30 4" class="line" stroke="#E7A17F" stroke-width="15"/>
+<path d="M285 291c-3-21 2-37 15-49m36 52c7-20 5-37-6-51" class="thin" stroke="#8B88C4" opacity=".65"/>
+<text x="307" y="228" font-family="Georgia,serif" font-size="24" fill="#8B88C4">z</text><text x="334" y="201" font-family="Georgia,serif" font-size="31" fill="#8B88C4">z</text>
+</svg>

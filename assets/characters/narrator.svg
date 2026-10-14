@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">地图引导员</title><desc id="desc">引导员蹲在展开的地图前，一只手描路线，另一只手邀请观众出发。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="280" cy="450" rx="225" ry="18" class="ink" opacity=".1"/>
+<path d="M67 364 196 334l112 27 121-38 67 29-2 76-120 22-101-30-109 24-97-30Z" class="cream" stroke="#18202D" stroke-width="5" stroke-linejoin="round"/>
+<path d="m196 334-2 78m114-51-4 72m125-110-5 87" class="thin" stroke="#91A8D5"/><path d="M103 390c50-20 91-17 123 8s69 25 111 0 83-26 123-3" class="thin" stroke="#75A9A3"/>
+<circle cx="333" cy="398" r="9" class="gold"/><circle cx="449" cy="382" r="7" class="coral"/><path d="M333 398c37-18 75-24 116-16" class="thin" stroke="#F2C66D" stroke-dasharray="7 12"/>
+<path d="M221 131c-18 8-28 29-21 49 8 23 34 33 55 21 19-11 24-35 13-54-10-17-30-24-47-16Z" class="skin"/>
+<path d="M201 155c3-29 34-48 61-34 17 9 26 27 23 45-13-10-27-15-43-16-13 8-26 10-41 5Z" class="ink"/>
+<path d="M224 176c6 5 12 5 18 0" class="thin" stroke-width="3"/>
+<path d="M215 204c-22 33-28 72-19 116 37 21 77 22 119 2 4-43-5-82-28-118-23 12-47 12-72 0Z" class="coral"/>
+<path d="M205 240c-36 15-64 39-83 73" class="line" stroke="#E7A17F" stroke-width="17"/><path d="M122 313l-34-5" class="line" stroke="#E7A17F" stroke-width="14"/><path d="M285 235c37 5 71 19 101 43" class="line" stroke="#E7A17F" stroke-width="17"/><path d="M386 278l39-4" class="line" stroke="#E7A17F" stroke-width="14"/>
+<path d="M218 315c-30 17-51 43-63 78m147-70c-19 16-34 37-46 64" class="line" stroke="#18202D" stroke-width="23"/><path d="M153 393l41 20m63-25 38 17" class="line" stroke-width="13"/>
+<path d="M90 308c-17-3-30 1-39 13m374-47c17-14 31-18 44-12" class="thin" stroke="#F2C66D"/>
+</svg>

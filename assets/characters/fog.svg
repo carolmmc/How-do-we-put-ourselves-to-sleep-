@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" role="img" aria-labelledby="title desc">
+<title id="title">说不清角色</title><desc id="desc">半醒半睡地坐在被窝里耸肩，周围漂着互相矛盾的睡前符号。</desc>
+<defs>
+  <linearGradient id="duvet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#94A9D1"/><stop offset="1" stop-color="#7188B5"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8D990" stop-opacity=".82"/><stop offset="1" stop-color="#F2C66D" stop-opacity="0"/></linearGradient>
+  <radialGradient id="screen"><stop stop-color="#CDE8E4" stop-opacity=".95"/><stop offset="1" stop-color="#75A9A3" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+ .ink{fill:#18202D}.line{fill:none;stroke:#18202D;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+ .thin{fill:none;stroke:#18202D;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+ .skin{fill:#E7A17F}.cream{fill:#EEE8D8}.blue{fill:#91A8D5}.teal{fill:#75A9A3}.gold{fill:#F2C66D}.coral{fill:#E58B73}.lav{fill:#8B88C4}
+ .soft{opacity:.22}.detail{fill:none;stroke:#EEE8D8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<ellipse cx="279" cy="442" rx="218" ry="20" class="ink" opacity=".1"/>
+<path d="M70 391c54-91 151-112 248-85 85 23 143 68 171 105H75Z" class="teal" opacity=".82"/>
+<path d="M210 223c-8-30 10-60 40-70 33-10 67 9 76 42 8 31-11 62-43 70-31 8-64-11-73-42Z" class="skin"/>
+<path d="M210 196c8-34 44-54 76-40 20 9 33 29 32 50-17-11-35-16-53-15-16 10-34 12-55 5Z" class="ink"/>
+<path d="M236 226c5-3 10-3 15 0m27 0c5-3 10-3 15 0m-42 20c10 5 20 5 30 0" class="thin" stroke-width="3"/>
+<path d="M215 263c-22 34-31 74-28 120 54 29 111 29 171 0-1-46-13-87-37-122-33 15-68 16-106 2Z" class="cream"/>
+<path d="M211 286c-35 5-61 23-78 53" class="line" stroke="#E7A17F" stroke-width="17"/><path d="M133 339l-37-14" class="line" stroke="#E7A17F" stroke-width="14"/><path d="M323 285c34 3 62 21 82 53" class="line" stroke="#E7A17F" stroke-width="17"/><path d="M405 338l38-15" class="line" stroke="#E7A17F" stroke-width="14"/>
+<path d="M207 380c-35 9-66 26-92 49m239-48c37 9 67 25 91 47" class="line" stroke="#18202D" stroke-width="23"/>
+<circle cx="118" cy="204" r="38" class="gold" opacity=".3"/><path d="M118 181v47m-24-24h48" class="thin" stroke="#F2C66D"/>
+<path d="M407 153a31 31 0 1 0 31 48 35 35 0 1 1-31-48Z" class="lav" opacity=".75"/>
+<path d="M146 129h18m-9-9v18m200 94 12 12m0-12-12 12" class="thin" stroke="#8B88C4" stroke-width="4"/>
+<path d="M255 287c-7 15-4 25 10 31 12 5 20 13 21 24" class="thin" stroke="#91A8D5"/>
+</svg>
